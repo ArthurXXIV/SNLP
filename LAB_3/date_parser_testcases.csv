@@ -1,0 +1,101 @@
+Input,Expected Output
+"The event will take place on March 5, 2023.",05-03-2023
+Her birthday is on 07/08/1990.,07-08-1990
+The deadline is 2022-12-31.,31-12-2022
+We met on 1st of January 2000.,01-01-2000
+"The concert is scheduled for 15th September, 2021.",15-09-2021
+Let's catch up on 02.04.2022.,02-04-2022
+The project started on 5/6/19.,05-06-2019
+He was born on 1987/11/23.,23-11-1987
+Christmas is on 25th Dec 2024.,25-12-2024
+"The meeting is set for April 03, 2020.",03-04-2020
+"Her birthdate, noted as 1997-05-20, is in the records.",20-05-1997
+"Her appointment is on the 2nd of March, 2021.",02-03-2021
+The exam date is 2021.11.10.,10-11-2021
+They got married on 12/12/12.,12-12-2012
+"The workshop is on February 15th, 2022.",15-02-2022
+Submit your report by 08/31/2021.,31-08-2021
+The course starts on 1st July 2023.,01-07-2023
+"Independence Day is on 4th of July, 2022.",04-07-2022
+His birthday is 1995/10/30.,30-10-1995
+The new year begins on 01-01-2023.,01-01-2023
+The seminar is on 03/14/2022.,14-03-2022
+My last day is 31.08.2020.,31-08-2020
+The due date is 2020-02-28.,28-02-2020
+"The holiday starts on Dec 20th, 2021.",20-12-2021
+The conference will be held on 5th May 2023.,05-05-2023
+They moved in on 12/25/2019.,25-12-2019
+"The festival begins on March 17, 2022.",17-03-2022
+The ceremony is on 11.11.2021.,11-11-2021
+The event is on 2023/07/04.,04-07-2023
+"Her graduation is on May 30th, 2022.",30-05-2022
+The release date is 2021-09-09.,09-09-2021
+The interview is on 1/2/2022.,01-02-2022
+The celebration is on 2022-10-10.,10-10-2022
+"His wedding is on 6th of August, 2020.",06-08-2020
+She was born on 3rd March 1998.,03-03-1998
+The opening is on 10/10/2018.,10-10-2018
+The deadline is 2020.12.15.,15-12-2020
+The party is on 31-12-2022.,31-12-2022
+"The workshop is on February 29, 2024.",29-02-2024
+Vacation starts on 07/15/2021.,15-07-2021
+The application is due by 2022-03-03.,03-03-2022
+"The tournament is on June 1st, 2021.",01-06-2021
+The closing date is 08/08/2020.,08-08-2020
+The concert is on 2020/09/09.,09-09-2020
+The exam is on 01.01.2022.,01-01-2022
+Independence Day is 2023-07-04.,04-07-2023
+The last date is 30th November 2022.,30-11-2022
+The conference is on 15th October 2023.,15-10-2023
+His birthdate is 1990-05-20.,20-05-1990
+The festival is on 12th August 2024.,12-08-2024
+Input,Expected Output
+"We are planning to meet on March 5, 2023, for lunch.",05-03-2023
+"Her birthday, which she celebrates on 07/08/1990, is coming up soon.",07-08-1990
+"The deadline, unfortunately, is set to 2022-12-31.",31-12-2022
+We first met on the 1st of January 2000 at the conference.,01-01-2000
+"The concert, happening on 15th September 2021, will be amazing.",15-09-2021
+"Remember, the meeting is on 02.04.2022 at 10 AM.",02-04-2022
+"Let's wrap up the project by 5/6/19, so we can relax.",05-06-2019
+"His birth date, recorded as 1987/11/23, was a memorable day.",23-11-1987
+"We celebrate Christmas every year on 25th Dec, including 2024.",25-12-2024
+"The meeting is rescheduled to April 03, 2020, as per the latest update.",03-04-2020
+"Their anniversary is marked on the 2nd of March, 2021.",02-03-2021
+"The official exam date is now 2021.11.10, per the new schedule.",10-11-2021
+They celebrated their wedding on 12/12/12 in grand style.,12-12-2012
+"Our next workshop is scheduled for February 15th, 2022.",15-02-2022
+"The submission deadline, noted as 08/31/2021, is fast approaching.",31-08-2021
+The course officially begins on 1st July 2023.,01-07-2023
+"We celebrate Independence Day on the 4th of July every year, including 2022.",04-07-2022
+He mentioned that his birth date is 1995/10/30 in the form.,30-10-1995
+The new year's celebration begins on 01-01-2023 at midnight.,01-01-2023
+"We scheduled the seminar for 03/14/2022, don't forget.",14-03-2022
+My final working day here is noted as 31.08.2020.,31-08-2020
+The project's due date is officially 2020-02-28.,28-02-2020
+"The holiday vacation starts on Dec 20th, 2021, for everyone.",20-12-2021
+"The conference, marked for 5th May 2023, is a significant event.",05-05-2023
+They officially moved in on 12/25/2019.,25-12-2019
+"Our festival starts on March 17, 2022, with a parade.",17-03-2022
+The ceremony date is fixed as 11.11.2021.,11-11-2021
+"The big event is planned for 2023/07/04, so mark your calendars.",04-07-2023
+"Her graduation day is set for May 30th, 2022.",30-05-2022
+The software release date is set for 2021-09-09.,09-09-2021
+"The job interview is on 1/2/2022, don't be late.",01-02-2022
+"The grand celebration is on 2022-10-10, a date to remember.",10-10-2022
+"The wedding is on 6th of August, 2020, in the evening.",06-08-2020
+She mentioned she was born on the 3rd of March 1998.,03-03-1998
+"The official opening date is 10/10/2018, as per the announcement.",10-10-2018
+"The critical deadline is 2020.12.15, please note it.",15-12-2020
+"The New Year's Eve party is on 31-12-2022, join us!",31-12-2022
+"The next workshop is on February 29, 2024, due to the leap year.",29-02-2024
+"Vacation officially starts on 07/15/2021, get ready.",15-07-2021
+The application submission date is 2022-03-03.,03-03-2022
+"The tournament begins on June 1st, 2021, early in the morning.",01-06-2021
+The registration closing date is 08/08/2020.,08-08-2020
+The music concert is scheduled for 2020/09/09.,09-09-2020
+"The exam will be held on 01.01.2022, start preparing.",01-01-2022
+"We celebrate Independence Day on 2023-07-04, as always.",04-07-2023
+The final date for submission is 30th November 2022.,30-11-2022
+"The annual conference is on 15th October 2023, mark your calendars.",15-10-2023
+"His birthdate, noted as 1990-05-20, is in the records.",20-05-1990
+"The festival will be celebrated on 12th August 2024, with grand events.",12-08-2024
